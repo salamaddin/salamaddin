@@ -8,16 +8,6 @@ I'm currently a final year computer science student at Aliah unversity, interest
 - 🎵 I love to travel and listen to music.
 - ⚡ Fun fact: 
 
-### Connect with me:
-
-[<img align="left" alt="salamaddin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="salamaddin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-
-<h1 align="center">Hi 👋, I'm salamaddin</h1>
-<h3 align="center">I'm currently a final year computer science student at Aliah unversity, interested in Web Development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
